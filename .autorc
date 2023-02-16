@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fatkhulizz",
+  "repo": "container-7pqprns",
+  "name": "fatkhulizz",
+}
